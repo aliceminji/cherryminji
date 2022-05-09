@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=CherryMin%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,0,0,0,30&height=300&section=header&text=CherryMin%20&fontSize=90)
 
 <div align=center>
 <h2>🍒 About Me 🍒</h2>
