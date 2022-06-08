@@ -2,10 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,0,0,0,30&height=300&section=header&text=CherryMin%20&fontSize=90)
 
 <div align=center>
-<h2>🍒 About Me 🍒</h2>
-<P><center>안녕하세요 개발자 CherryMin 입니다.</center></P>
-<P><center>현업에서 .NET Framwork 를 사용해 MES 솔루션을 구축한 경력이 있습니다.</center></P>
-<P><center>현재는 프론트엔드 개발자가 되기 위해 공부중 입니다.</center></P>
+
 
 <br>
 
